@@ -1,0 +1,6 @@
+[submodule "tbdex"]
+	path = tbdex
+	url = https://github.com/TBD54566975/tbdex.git
+[submodule "kcc"]
+	path = kcc
+	url = https://github.com/TBD54566975/known-customer-credential.git
