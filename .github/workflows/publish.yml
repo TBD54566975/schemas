@@ -37,7 +37,7 @@ jobs:
       - name: Process directories
         run: |
           # List of directories to process
-          directories=("tbdex")
+          directories=("kcc" "tbdex")
 
           # Function to check if a directory is a submodule
           is_submodule() {
